@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\C#\ForLoopEx\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.exe
+C:\Users\PC\source\repos\C#\ForLoopEx\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.deps.json
+C:\Users\PC\source\repos\C#\ForLoopEx\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.runtimeconfig.json
+C:\Users\PC\source\repos\C#\ForLoopEx\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.runtimeconfig.dev.json
+C:\Users\PC\source\repos\C#\ForLoopEx\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.dll
+C:\Users\PC\source\repos\C#\ForLoopEx\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.pdb
+C:\Users\PC\source\repos\C#\ForLoopEx\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\C#\ForLoopEx\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\ForLoopEx\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\ForLoopEx\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\ForLoopEx\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.dll
+C:\Users\PC\source\repos\C#\ForLoopEx\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.pdb
+C:\Users\PC\source\repos\C#\ForLoopEx\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.genruntimeconfig.cache

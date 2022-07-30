@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NumsFrom1To100/1.0.0": {
+        "runtime": {
+          "NumsFrom1To100.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumsFrom1To100/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

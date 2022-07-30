@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.exe
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.deps.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.runtimeconfig.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.runtimeconfig.dev.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.dll
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.pdb
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.dll
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.pdb
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.genruntimeconfig.cache

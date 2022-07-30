@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\SumSecs\bin\Debug\netcoreapp3.1\SumSecs.exe
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\SumSecs\bin\Debug\netcoreapp3.1\SumSecs.deps.json
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\SumSecs\bin\Debug\netcoreapp3.1\SumSecs.runtimeconfig.json
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\SumSecs\bin\Debug\netcoreapp3.1\SumSecs.runtimeconfig.dev.json
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\SumSecs\bin\Debug\netcoreapp3.1\SumSecs.dll
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\SumSecs\bin\Debug\netcoreapp3.1\SumSecs.pdb
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\SumSecs\obj\Debug\netcoreapp3.1\SumSecs.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\SumSecs\obj\Debug\netcoreapp3.1\SumSecs.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\SumSecs\obj\Debug\netcoreapp3.1\SumSecs.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\SumSecs\obj\Debug\netcoreapp3.1\SumSecs.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\SumSecs\obj\Debug\netcoreapp3.1\SumSecs.dll
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\SumSecs\obj\Debug\netcoreapp3.1\SumSecs.pdb
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\SumSecs\obj\Debug\netcoreapp3.1\SumSecs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\ForLoopLab\1ToNWithStep3\bin\Debug\netcoreapp3.1\1ToNWithStep3.exe
+C:\Users\PC\source\repos\ForLoopLab\1ToNWithStep3\bin\Debug\netcoreapp3.1\1ToNWithStep3.deps.json
+C:\Users\PC\source\repos\ForLoopLab\1ToNWithStep3\bin\Debug\netcoreapp3.1\1ToNWithStep3.runtimeconfig.json
+C:\Users\PC\source\repos\ForLoopLab\1ToNWithStep3\bin\Debug\netcoreapp3.1\1ToNWithStep3.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ForLoopLab\1ToNWithStep3\bin\Debug\netcoreapp3.1\1ToNWithStep3.dll
+C:\Users\PC\source\repos\ForLoopLab\1ToNWithStep3\bin\Debug\netcoreapp3.1\1ToNWithStep3.pdb
+C:\Users\PC\source\repos\ForLoopLab\1ToNWithStep3\obj\Debug\netcoreapp3.1\1ToNWithStep3.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ForLoopLab\1ToNWithStep3\obj\Debug\netcoreapp3.1\1ToNWithStep3.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ForLoopLab\1ToNWithStep3\obj\Debug\netcoreapp3.1\1ToNWithStep3.AssemblyInfo.cs
+C:\Users\PC\source\repos\ForLoopLab\1ToNWithStep3\obj\Debug\netcoreapp3.1\1ToNWithStep3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ForLoopLab\1ToNWithStep3\obj\Debug\netcoreapp3.1\1ToNWithStep3.dll
+C:\Users\PC\source\repos\ForLoopLab\1ToNWithStep3\obj\Debug\netcoreapp3.1\1ToNWithStep3.pdb
+C:\Users\PC\source\repos\ForLoopLab\1ToNWithStep3\obj\Debug\netcoreapp3.1\1ToNWithStep3.genruntimeconfig.cache

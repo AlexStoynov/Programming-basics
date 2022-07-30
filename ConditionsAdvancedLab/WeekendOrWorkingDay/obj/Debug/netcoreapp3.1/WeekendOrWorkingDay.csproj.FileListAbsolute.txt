@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.exe
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.deps.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.runtimeconfig.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\WeekendOrWorkingDay.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\WeekendOrWorkingDay.genruntimeconfig.cache

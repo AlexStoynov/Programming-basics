@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\ConditionsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConditionsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\CinemaTicket\bin\Debug\netcoreapp3.1\CinemaTicket.exe
+C:\Users\PC\source\repos\ConditionsAdvancedLab\CinemaTicket\bin\Debug\netcoreapp3.1\CinemaTicket.deps.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\CinemaTicket\bin\Debug\netcoreapp3.1\CinemaTicket.runtimeconfig.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\CinemaTicket\bin\Debug\netcoreapp3.1\CinemaTicket.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\CinemaTicket\bin\Debug\netcoreapp3.1\CinemaTicket.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\CinemaTicket\bin\Debug\netcoreapp3.1\CinemaTicket.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\CinemaTicket\obj\Debug\netcoreapp3.1\CinemaTicket.genruntimeconfig.cache

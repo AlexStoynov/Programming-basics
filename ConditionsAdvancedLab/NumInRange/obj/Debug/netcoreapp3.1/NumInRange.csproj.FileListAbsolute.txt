@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\ConditionsAdvancedLab\NumInRange\bin\Debug\netcoreapp3.1\NumInRange.exe
+C:\Users\PC\source\repos\ConditionsAdvancedLab\NumInRange\bin\Debug\netcoreapp3.1\NumInRange.deps.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\NumInRange\bin\Debug\netcoreapp3.1\NumInRange.runtimeconfig.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\NumInRange\bin\Debug\netcoreapp3.1\NumInRange.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\NumInRange\bin\Debug\netcoreapp3.1\NumInRange.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\NumInRange\bin\Debug\netcoreapp3.1\NumInRange.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\NumInRange\obj\Debug\netcoreapp3.1\NumInRange.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\NumInRange\obj\Debug\netcoreapp3.1\NumInRange.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConditionsAdvancedLab\NumInRange\obj\Debug\netcoreapp3.1\NumInRange.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\NumInRange\obj\Debug\netcoreapp3.1\NumInRange.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\NumInRange\obj\Debug\netcoreapp3.1\NumInRange.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\NumInRange\obj\Debug\netcoreapp3.1\NumInRange.genruntimeconfig.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\NumInRange\obj\Debug\netcoreapp3.1\NumInRange.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\PurviStupkiEx\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.exe
+C:\Users\PC\source\repos\PurviStupkiEx\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.deps.json
+C:\Users\PC\source\repos\PurviStupkiEx\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.runtimeconfig.json
+C:\Users\PC\source\repos\PurviStupkiEx\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.runtimeconfig.dev.json
+C:\Users\PC\source\repos\PurviStupkiEx\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.dll
+C:\Users\PC\source\repos\PurviStupkiEx\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.pdb
+C:\Users\PC\source\repos\PurviStupkiEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\PurviStupkiEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PurviStupkiEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.AssemblyInfo.cs
+C:\Users\PC\source\repos\PurviStupkiEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PurviStupkiEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.dll
+C:\Users\PC\source\repos\PurviStupkiEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.pdb
+C:\Users\PC\source\repos\PurviStupkiEx\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\PurviStupkiEx\USDToBGN\bin\Debug\netcoreapp3.1\USDToBGN.exe
+C:\Users\PC\source\repos\PurviStupkiEx\USDToBGN\bin\Debug\netcoreapp3.1\USDToBGN.deps.json
+C:\Users\PC\source\repos\PurviStupkiEx\USDToBGN\bin\Debug\netcoreapp3.1\USDToBGN.runtimeconfig.json
+C:\Users\PC\source\repos\PurviStupkiEx\USDToBGN\bin\Debug\netcoreapp3.1\USDToBGN.runtimeconfig.dev.json
+C:\Users\PC\source\repos\PurviStupkiEx\USDToBGN\bin\Debug\netcoreapp3.1\USDToBGN.dll
+C:\Users\PC\source\repos\PurviStupkiEx\USDToBGN\bin\Debug\netcoreapp3.1\USDToBGN.pdb
+C:\Users\PC\source\repos\PurviStupkiEx\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\PurviStupkiEx\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PurviStupkiEx\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.AssemblyInfo.cs
+C:\Users\PC\source\repos\PurviStupkiEx\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PurviStupkiEx\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.dll
+C:\Users\PC\source\repos\PurviStupkiEx\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.pdb
+C:\Users\PC\source\repos\PurviStupkiEx\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.genruntimeconfig.cache

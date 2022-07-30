@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\WhileLoopEx\Walking\bin\Debug\netcoreapp3.1\Walking.exe
+C:\Users\PC\source\repos\WhileLoopEx\Walking\bin\Debug\netcoreapp3.1\Walking.deps.json
+C:\Users\PC\source\repos\WhileLoopEx\Walking\bin\Debug\netcoreapp3.1\Walking.runtimeconfig.json
+C:\Users\PC\source\repos\WhileLoopEx\Walking\bin\Debug\netcoreapp3.1\Walking.runtimeconfig.dev.json
+C:\Users\PC\source\repos\WhileLoopEx\Walking\bin\Debug\netcoreapp3.1\Walking.dll
+C:\Users\PC\source\repos\WhileLoopEx\Walking\bin\Debug\netcoreapp3.1\Walking.pdb
+C:\Users\PC\source\repos\WhileLoopEx\Walking\obj\Debug\netcoreapp3.1\Walking.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\WhileLoopEx\Walking\obj\Debug\netcoreapp3.1\Walking.AssemblyInfo.cs
+C:\Users\PC\source\repos\WhileLoopEx\Walking\obj\Debug\netcoreapp3.1\Walking.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WhileLoopEx\Walking\obj\Debug\netcoreapp3.1\Walking.dll
+C:\Users\PC\source\repos\WhileLoopEx\Walking\obj\Debug\netcoreapp3.1\Walking.pdb
+C:\Users\PC\source\repos\WhileLoopEx\Walking\obj\Debug\netcoreapp3.1\Walking.genruntimeconfig.cache

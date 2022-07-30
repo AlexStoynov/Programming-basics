@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.exe
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.deps.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.dev.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.dll
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.pdb
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.dll
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.pdb
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.genruntimeconfig.cache

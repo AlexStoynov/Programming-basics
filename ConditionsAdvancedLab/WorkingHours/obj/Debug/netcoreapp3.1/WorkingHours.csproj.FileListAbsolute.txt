@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.exe
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.deps.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.runtimeconfig.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.genruntimeconfig.cache

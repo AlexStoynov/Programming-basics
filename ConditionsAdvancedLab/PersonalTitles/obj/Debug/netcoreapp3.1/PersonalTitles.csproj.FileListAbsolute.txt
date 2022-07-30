@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\ConditionsAdvancedLab\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.exe
+C:\Users\PC\source\repos\ConditionsAdvancedLab\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.deps.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.runtimeconfig.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConditionsAdvancedLab\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.genruntimeconfig.cache

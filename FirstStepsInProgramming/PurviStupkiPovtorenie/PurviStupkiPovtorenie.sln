@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurviStupkiPovtorenie", "PurviStupkiPovtorenie\PurviStupkiPovtorenie.csproj", "{F5004BBD-3678-4E2A-A2C1-5502028A867C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5004BBD-3678-4E2A-A2C1-5502028A867C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5004BBD-3678-4E2A-A2C1-5502028A867C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5004BBD-3678-4E2A-A2C1-5502028A867C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5004BBD-3678-4E2A-A2C1-5502028A867C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64FD51A8-B6DF-43E2-A875-49D67099CBE2}
+	EndGlobalSection
+EndGlobal

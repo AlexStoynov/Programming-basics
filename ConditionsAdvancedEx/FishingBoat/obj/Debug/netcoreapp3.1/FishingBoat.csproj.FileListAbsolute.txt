@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.exe
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.deps.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.runtimeconfig.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.runtimeconfig.dev.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.dll
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.pdb
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.dll
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.pdb
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.genruntimeconfig.cache

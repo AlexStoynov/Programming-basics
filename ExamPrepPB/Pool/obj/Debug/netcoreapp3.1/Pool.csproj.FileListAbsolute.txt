@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\C#\ExamPrepPB\Pool\bin\Debug\netcoreapp3.1\Pool.exe
+C:\Users\PC\source\repos\C#\ExamPrepPB\Pool\bin\Debug\netcoreapp3.1\Pool.deps.json
+C:\Users\PC\source\repos\C#\ExamPrepPB\Pool\bin\Debug\netcoreapp3.1\Pool.runtimeconfig.json
+C:\Users\PC\source\repos\C#\ExamPrepPB\Pool\bin\Debug\netcoreapp3.1\Pool.runtimeconfig.dev.json
+C:\Users\PC\source\repos\C#\ExamPrepPB\Pool\bin\Debug\netcoreapp3.1\Pool.dll
+C:\Users\PC\source\repos\C#\ExamPrepPB\Pool\bin\Debug\netcoreapp3.1\Pool.pdb
+C:\Users\PC\source\repos\C#\ExamPrepPB\Pool\obj\Debug\netcoreapp3.1\Pool.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\C#\ExamPrepPB\Pool\obj\Debug\netcoreapp3.1\Pool.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\ExamPrepPB\Pool\obj\Debug\netcoreapp3.1\Pool.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\ExamPrepPB\Pool\obj\Debug\netcoreapp3.1\Pool.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\ExamPrepPB\Pool\obj\Debug\netcoreapp3.1\Pool.dll
+C:\Users\PC\source\repos\C#\ExamPrepPB\Pool\obj\Debug\netcoreapp3.1\Pool.pdb
+C:\Users\PC\source\repos\C#\ExamPrepPB\Pool\obj\Debug\netcoreapp3.1\Pool.genruntimeconfig.cache

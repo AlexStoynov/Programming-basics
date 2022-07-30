@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\C#\ForLoopEx\OddOrEvenPosition\bin\Debug\netcoreapp3.1\OddOrEvenPosition.exe
+C:\Users\PC\source\repos\C#\ForLoopEx\OddOrEvenPosition\bin\Debug\netcoreapp3.1\OddOrEvenPosition.deps.json
+C:\Users\PC\source\repos\C#\ForLoopEx\OddOrEvenPosition\bin\Debug\netcoreapp3.1\OddOrEvenPosition.runtimeconfig.json
+C:\Users\PC\source\repos\C#\ForLoopEx\OddOrEvenPosition\bin\Debug\netcoreapp3.1\OddOrEvenPosition.runtimeconfig.dev.json
+C:\Users\PC\source\repos\C#\ForLoopEx\OddOrEvenPosition\bin\Debug\netcoreapp3.1\OddOrEvenPosition.dll
+C:\Users\PC\source\repos\C#\ForLoopEx\OddOrEvenPosition\bin\Debug\netcoreapp3.1\OddOrEvenPosition.pdb
+C:\Users\PC\source\repos\C#\ForLoopEx\OddOrEvenPosition\obj\Debug\netcoreapp3.1\OddOrEvenPosition.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\C#\ForLoopEx\OddOrEvenPosition\obj\Debug\netcoreapp3.1\OddOrEvenPosition.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\ForLoopEx\OddOrEvenPosition\obj\Debug\netcoreapp3.1\OddOrEvenPosition.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\ForLoopEx\OddOrEvenPosition\obj\Debug\netcoreapp3.1\OddOrEvenPosition.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\ForLoopEx\OddOrEvenPosition\obj\Debug\netcoreapp3.1\OddOrEvenPosition.dll
+C:\Users\PC\source\repos\C#\ForLoopEx\OddOrEvenPosition\obj\Debug\netcoreapp3.1\OddOrEvenPosition.pdb
+C:\Users\PC\source\repos\C#\ForLoopEx\OddOrEvenPosition\obj\Debug\netcoreapp3.1\OddOrEvenPosition.genruntimeconfig.cache

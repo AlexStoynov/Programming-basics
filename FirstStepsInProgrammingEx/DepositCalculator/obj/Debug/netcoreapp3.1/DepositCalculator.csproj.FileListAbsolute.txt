@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\PurviStupkiEx\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.exe
+C:\Users\PC\source\repos\PurviStupkiEx\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.deps.json
+C:\Users\PC\source\repos\PurviStupkiEx\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.runtimeconfig.json
+C:\Users\PC\source\repos\PurviStupkiEx\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.runtimeconfig.dev.json
+C:\Users\PC\source\repos\PurviStupkiEx\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.dll
+C:\Users\PC\source\repos\PurviStupkiEx\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.pdb
+C:\Users\PC\source\repos\PurviStupkiEx\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\PurviStupkiEx\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PurviStupkiEx\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.AssemblyInfo.cs
+C:\Users\PC\source\repos\PurviStupkiEx\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PurviStupkiEx\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.dll
+C:\Users\PC\source\repos\PurviStupkiEx\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.pdb
+C:\Users\PC\source\repos\PurviStupkiEx\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.genruntimeconfig.cache

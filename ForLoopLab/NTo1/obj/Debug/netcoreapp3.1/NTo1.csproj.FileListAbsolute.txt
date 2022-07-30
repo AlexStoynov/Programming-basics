@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\ForLoopLab\NTo1\bin\Debug\netcoreapp3.1\NTo1.exe
+C:\Users\PC\source\repos\ForLoopLab\NTo1\bin\Debug\netcoreapp3.1\NTo1.deps.json
+C:\Users\PC\source\repos\ForLoopLab\NTo1\bin\Debug\netcoreapp3.1\NTo1.runtimeconfig.json
+C:\Users\PC\source\repos\ForLoopLab\NTo1\bin\Debug\netcoreapp3.1\NTo1.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ForLoopLab\NTo1\bin\Debug\netcoreapp3.1\NTo1.dll
+C:\Users\PC\source\repos\ForLoopLab\NTo1\bin\Debug\netcoreapp3.1\NTo1.pdb
+C:\Users\PC\source\repos\ForLoopLab\NTo1\obj\Debug\netcoreapp3.1\NTo1.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ForLoopLab\NTo1\obj\Debug\netcoreapp3.1\NTo1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ForLoopLab\NTo1\obj\Debug\netcoreapp3.1\NTo1.AssemblyInfo.cs
+C:\Users\PC\source\repos\ForLoopLab\NTo1\obj\Debug\netcoreapp3.1\NTo1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ForLoopLab\NTo1\obj\Debug\netcoreapp3.1\NTo1.dll
+C:\Users\PC\source\repos\ForLoopLab\NTo1\obj\Debug\netcoreapp3.1\NTo1.pdb
+C:\Users\PC\source\repos\ForLoopLab\NTo1\obj\Debug\netcoreapp3.1\NTo1.genruntimeconfig.cache

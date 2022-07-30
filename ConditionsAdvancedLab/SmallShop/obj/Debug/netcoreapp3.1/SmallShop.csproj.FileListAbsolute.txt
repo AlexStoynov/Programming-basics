@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\ConditionsAdvancedLab\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.exe
+C:\Users\PC\source\repos\ConditionsAdvancedLab\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.deps.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConditionsAdvancedLab\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.exe
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.deps.json
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.runtimeconfig.json
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.runtimeconfig.dev.json
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.dll
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.pdb
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.dll
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.pdb
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.genruntimeconfig.cache

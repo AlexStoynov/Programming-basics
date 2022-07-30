@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\PurviStupkiEx\VacationBookList\bin\Debug\netcoreapp3.1\VacationBookList.exe
+C:\Users\PC\source\repos\PurviStupkiEx\VacationBookList\bin\Debug\netcoreapp3.1\VacationBookList.deps.json
+C:\Users\PC\source\repos\PurviStupkiEx\VacationBookList\bin\Debug\netcoreapp3.1\VacationBookList.runtimeconfig.json
+C:\Users\PC\source\repos\PurviStupkiEx\VacationBookList\bin\Debug\netcoreapp3.1\VacationBookList.runtimeconfig.dev.json
+C:\Users\PC\source\repos\PurviStupkiEx\VacationBookList\bin\Debug\netcoreapp3.1\VacationBookList.dll
+C:\Users\PC\source\repos\PurviStupkiEx\VacationBookList\bin\Debug\netcoreapp3.1\VacationBookList.pdb
+C:\Users\PC\source\repos\PurviStupkiEx\VacationBookList\obj\Debug\netcoreapp3.1\VacationBookList.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PurviStupkiEx\VacationBookList\obj\Debug\netcoreapp3.1\VacationBookList.AssemblyInfo.cs
+C:\Users\PC\source\repos\PurviStupkiEx\VacationBookList\obj\Debug\netcoreapp3.1\VacationBookList.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PurviStupkiEx\VacationBookList\obj\Debug\netcoreapp3.1\VacationBookList.dll
+C:\Users\PC\source\repos\PurviStupkiEx\VacationBookList\obj\Debug\netcoreapp3.1\VacationBookList.pdb
+C:\Users\PC\source\repos\PurviStupkiEx\VacationBookList\obj\Debug\netcoreapp3.1\VacationBookList.genruntimeconfig.cache

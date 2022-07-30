@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\C#\PurviStupkiPovtorenie\PurviStupkiPovtorenie\bin\Debug\netcoreapp3.1\PurviStupkiPovtorenie.exe
+C:\Users\PC\Desktop\C#\PurviStupkiPovtorenie\PurviStupkiPovtorenie\bin\Debug\netcoreapp3.1\PurviStupkiPovtorenie.deps.json
+C:\Users\PC\Desktop\C#\PurviStupkiPovtorenie\PurviStupkiPovtorenie\bin\Debug\netcoreapp3.1\PurviStupkiPovtorenie.runtimeconfig.json
+C:\Users\PC\Desktop\C#\PurviStupkiPovtorenie\PurviStupkiPovtorenie\bin\Debug\netcoreapp3.1\PurviStupkiPovtorenie.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C#\PurviStupkiPovtorenie\PurviStupkiPovtorenie\bin\Debug\netcoreapp3.1\PurviStupkiPovtorenie.dll
+C:\Users\PC\Desktop\C#\PurviStupkiPovtorenie\PurviStupkiPovtorenie\bin\Debug\netcoreapp3.1\PurviStupkiPovtorenie.pdb
+C:\Users\PC\Desktop\C#\PurviStupkiPovtorenie\PurviStupkiPovtorenie\obj\Debug\netcoreapp3.1\PurviStupkiPovtorenie.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C#\PurviStupkiPovtorenie\PurviStupkiPovtorenie\obj\Debug\netcoreapp3.1\PurviStupkiPovtorenie.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\PurviStupkiPovtorenie\PurviStupkiPovtorenie\obj\Debug\netcoreapp3.1\PurviStupkiPovtorenie.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\PurviStupkiPovtorenie\PurviStupkiPovtorenie\obj\Debug\netcoreapp3.1\PurviStupkiPovtorenie.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\PurviStupkiPovtorenie\PurviStupkiPovtorenie\obj\Debug\netcoreapp3.1\PurviStupkiPovtorenie.dll
+C:\Users\PC\Desktop\C#\PurviStupkiPovtorenie\PurviStupkiPovtorenie\obj\Debug\netcoreapp3.1\PurviStupkiPovtorenie.pdb
+C:\Users\PC\Desktop\C#\PurviStupkiPovtorenie\PurviStupkiPovtorenie\obj\Debug\netcoreapp3.1\PurviStupkiPovtorenie.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\GodzillaVsKingKong\bin\Debug\netcoreapp3.1\GodzillaVsKingKong.exe
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\GodzillaVsKingKong\bin\Debug\netcoreapp3.1\GodzillaVsKingKong.deps.json
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\GodzillaVsKingKong\bin\Debug\netcoreapp3.1\GodzillaVsKingKong.runtimeconfig.json
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\GodzillaVsKingKong\bin\Debug\netcoreapp3.1\GodzillaVsKingKong.runtimeconfig.dev.json
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\GodzillaVsKingKong\bin\Debug\netcoreapp3.1\GodzillaVsKingKong.dll
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\GodzillaVsKingKong\bin\Debug\netcoreapp3.1\GodzillaVsKingKong.pdb
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\GodzillaVsKingKong\obj\Debug\netcoreapp3.1\GodzillaVsKingKong.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\GodzillaVsKingKong\obj\Debug\netcoreapp3.1\GodzillaVsKingKong.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\GodzillaVsKingKong\obj\Debug\netcoreapp3.1\GodzillaVsKingKong.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\GodzillaVsKingKong\obj\Debug\netcoreapp3.1\GodzillaVsKingKong.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\GodzillaVsKingKong\obj\Debug\netcoreapp3.1\GodzillaVsKingKong.dll
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\GodzillaVsKingKong\obj\Debug\netcoreapp3.1\GodzillaVsKingKong.pdb
+C:\Users\PC\source\repos\C#\ConditionalStatementsEx\GodzillaVsKingKong\obj\Debug\netcoreapp3.1\GodzillaVsKingKong.genruntimeconfig.cache

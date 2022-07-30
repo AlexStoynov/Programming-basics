@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\ConditionsAdvancedLab\InvalidNum\bin\Debug\netcoreapp3.1\InvalidNum.exe
+C:\Users\PC\source\repos\ConditionsAdvancedLab\InvalidNum\bin\Debug\netcoreapp3.1\InvalidNum.deps.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\InvalidNum\bin\Debug\netcoreapp3.1\InvalidNum.runtimeconfig.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\InvalidNum\bin\Debug\netcoreapp3.1\InvalidNum.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\InvalidNum\bin\Debug\netcoreapp3.1\InvalidNum.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\InvalidNum\bin\Debug\netcoreapp3.1\InvalidNum.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\InvalidNum\obj\Debug\netcoreapp3.1\InvalidNum.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\InvalidNum\obj\Debug\netcoreapp3.1\InvalidNum.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\InvalidNum\obj\Debug\netcoreapp3.1\InvalidNum.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConditionsAdvancedLab\InvalidNum\obj\Debug\netcoreapp3.1\InvalidNum.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\InvalidNum\obj\Debug\netcoreapp3.1\InvalidNum.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\InvalidNum\obj\Debug\netcoreapp3.1\InvalidNum.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\InvalidNum\obj\Debug\netcoreapp3.1\InvalidNum.genruntimeconfig.cache

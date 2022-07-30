@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.exe
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.deps.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.runtimeconfig.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.runtimeconfig.dev.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.dll
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.pdb
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.dll
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.pdb
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\ConditionsAdvancedLab\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.exe
+C:\Users\PC\source\repos\ConditionsAdvancedLab\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.deps.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.runtimeconfig.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConditionsAdvancedLab\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\ConditionsAdvancedLab\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.exe
+C:\Users\PC\source\repos\ConditionsAdvancedLab\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.deps.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.runtimeconfig.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ConditionsAdvancedLab\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConditionsAdvancedLab\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConditionsAdvancedLab\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.dll
+C:\Users\PC\source\repos\ConditionsAdvancedLab\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.pdb
+C:\Users\PC\source\repos\ConditionsAdvancedLab\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.genruntimeconfig.cache

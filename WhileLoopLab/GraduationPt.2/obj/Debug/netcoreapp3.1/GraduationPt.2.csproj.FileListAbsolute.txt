@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\WhileLoopLab\GraduationPt.2\bin\Debug\netcoreapp3.1\GraduationPt.2.exe
+C:\Users\PC\source\repos\WhileLoopLab\GraduationPt.2\bin\Debug\netcoreapp3.1\GraduationPt.2.deps.json
+C:\Users\PC\source\repos\WhileLoopLab\GraduationPt.2\bin\Debug\netcoreapp3.1\GraduationPt.2.runtimeconfig.json
+C:\Users\PC\source\repos\WhileLoopLab\GraduationPt.2\bin\Debug\netcoreapp3.1\GraduationPt.2.runtimeconfig.dev.json
+C:\Users\PC\source\repos\WhileLoopLab\GraduationPt.2\bin\Debug\netcoreapp3.1\GraduationPt.2.dll
+C:\Users\PC\source\repos\WhileLoopLab\GraduationPt.2\bin\Debug\netcoreapp3.1\GraduationPt.2.pdb
+C:\Users\PC\source\repos\WhileLoopLab\GraduationPt.2\obj\Debug\netcoreapp3.1\GraduationPt.2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\WhileLoopLab\GraduationPt.2\obj\Debug\netcoreapp3.1\GraduationPt.2.AssemblyInfo.cs
+C:\Users\PC\source\repos\WhileLoopLab\GraduationPt.2\obj\Debug\netcoreapp3.1\GraduationPt.2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WhileLoopLab\GraduationPt.2\obj\Debug\netcoreapp3.1\GraduationPt.2.dll
+C:\Users\PC\source\repos\WhileLoopLab\GraduationPt.2\obj\Debug\netcoreapp3.1\GraduationPt.2.pdb
+C:\Users\PC\source\repos\WhileLoopLab\GraduationPt.2\obj\Debug\netcoreapp3.1\GraduationPt.2.genruntimeconfig.cache

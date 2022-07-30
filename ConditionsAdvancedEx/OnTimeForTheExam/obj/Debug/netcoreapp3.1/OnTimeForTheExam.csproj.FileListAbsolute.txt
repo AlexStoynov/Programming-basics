@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.exe
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.deps.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.runtimeconfig.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.runtimeconfig.dev.json
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.dll
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.pdb
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.dll
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.pdb
+C:\Users\PC\source\repos\C#\ConditionsAdvancedEx\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.genruntimeconfig.cache

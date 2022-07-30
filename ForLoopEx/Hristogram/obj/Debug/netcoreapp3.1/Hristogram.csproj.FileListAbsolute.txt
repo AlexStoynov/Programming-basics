@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\C#\ForLoopEx\Hristogram\obj\Debug\netcoreapp3.1\Hristogram.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\C#\ForLoopEx\Hristogram\obj\Debug\netcoreapp3.1\Hristogram.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\ForLoopEx\Hristogram\obj\Debug\netcoreapp3.1\Hristogram.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\ForLoopEx\Hristogram\obj\Debug\netcoreapp3.1\Hristogram.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\ForLoopEx\Hristogram\bin\Debug\netcoreapp3.1\Hristogram.exe
+C:\Users\PC\source\repos\C#\ForLoopEx\Hristogram\bin\Debug\netcoreapp3.1\Hristogram.deps.json
+C:\Users\PC\source\repos\C#\ForLoopEx\Hristogram\bin\Debug\netcoreapp3.1\Hristogram.runtimeconfig.json
+C:\Users\PC\source\repos\C#\ForLoopEx\Hristogram\bin\Debug\netcoreapp3.1\Hristogram.runtimeconfig.dev.json
+C:\Users\PC\source\repos\C#\ForLoopEx\Hristogram\bin\Debug\netcoreapp3.1\Hristogram.dll
+C:\Users\PC\source\repos\C#\ForLoopEx\Hristogram\bin\Debug\netcoreapp3.1\Hristogram.pdb
+C:\Users\PC\source\repos\C#\ForLoopEx\Hristogram\obj\Debug\netcoreapp3.1\Hristogram.dll
+C:\Users\PC\source\repos\C#\ForLoopEx\Hristogram\obj\Debug\netcoreapp3.1\Hristogram.pdb
+C:\Users\PC\source\repos\C#\ForLoopEx\Hristogram\obj\Debug\netcoreapp3.1\Hristogram.genruntimeconfig.cache
